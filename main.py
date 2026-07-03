@@ -11,3 +11,4 @@ msg =input("message:")
 hr = int(input("hour:(in 24 hrs format)"))
 mnt = int(input("minutes:"))
 pywhatkit.sendwhatmsg("+91"+wno, msg,hr,mnt )
+#this is updated line 
